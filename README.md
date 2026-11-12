@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏃‍♂️💨 Willi & o Coiote — Jogo do Papa-Léguas
 
 Um jogo *endless runner* feito com **HTML, CSS e JavaScript puro**, inspirado no dinossauro do Chrome. Nele, o Papa-Léguas (Willi) corre sem parar e precisa pular para escapar do Coiote que surge no caminho. Quanto mais você sobrevive, mais pontos faz!
@@ -94,3 +95,7 @@ Desenvolvido por **[tagusilv05](https://github.com/tagusilv05)**.
 ## ⚠️ Aviso
 
 Papa-Léguas e Coiote são personagens da Warner Bros. / Looney Tunes. Este é um projeto educacional, sem fins lucrativos, e os personagens pertencem aos seus respectivos detentores de direitos.
+=======
+# Jogo-do-papa-léguas
+O jogo foi desenvolvido utilizando JavaScript, e consiste em um jogo onde o papa-léguas necessita esquivar-se dos obstáculos presentes no caminho.
+>>>>>>> 490810807498b9757b78d04ab6a5b3cf388d969a
